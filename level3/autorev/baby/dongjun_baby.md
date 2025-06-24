@@ -2,7 +2,9 @@
 
 #### First, I looked into the executable using binary ninja.
 
-![flow](https://github.com/dongjle2/writeups/level3/autorev/baby/baby_1.JPG)
+![flow](https://github.com/dongjle2/writeups/blob/main/level3/autorev/baby/baby_1.JPG)
+
+
 
 #### From the image, I found that the objective is to get the correct license. 
 
@@ -12,4 +14,4 @@
 
 2. Tell angr that the license is length of 0x20 string.
 
-[script](https://github.com/dongjle2/writeups/blob/main/dongjun_baby_sol.md/sol.py)
+[script](https://github.com/dongjle2/writeups/blob/main/level3/autorev/baby/sol.py)
