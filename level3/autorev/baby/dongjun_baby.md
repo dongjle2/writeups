@@ -8,7 +8,7 @@
 
 #### The image shows some complex stuffs but no need to worry because I just let angr work on it.
 
-#### More important thing is that the objective is to get the correct license. 
+#### More important thing is for the challenge, the objective is to get the correct license. 
 
 #### I used the following 2 facts.
 
