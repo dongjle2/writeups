@@ -6,12 +6,15 @@
 
 
 
-#### From the image, I found that the objective is to get the correct license. 
+#### The image shows some complex stuffs but no need to worry because I just let angr work on it.
 
-#### Since the flow is very simple, I will use the following 2 facts.
+#### More important thing is that the objective is to get the correct license. 
+
+#### I used the following 2 facts.
+
 1. Tell angr reach to address 0x40187d, which is the desired address when correct license is given.
 
-
 2. Tell angr that the license is length of 0x20 string.
+
 
 [script](https://github.com/dongjle2/writeups/blob/main/level3/autorev/baby/sol.py)
